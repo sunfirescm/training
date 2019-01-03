@@ -80,7 +80,7 @@ Types of tests
     Doctests
     ~~~~~~~~
     Doctests are a popular way to write tests in documentation. Doctests parse documentation for code that has special formatting, runs the code and compares it with the output suggested in the documentation.
-    Doctests are hard to debug, because there is no easy way to use a debugger in doctests. Doctests have a bad reputation, because developrs initially thought they could write documentation and tests in one go. This resulted in packages like zope.component, where the documentation on PyPI has slowly been transformed into half sentences separated by 5-10 lines of code testing an obscure feature that the half sentences do not properly explain.
+    Doctests are hard to debug, because there is no easy way to use a debugger in doctests. Doctests have a bad reputation, because developers initially thought they could write documentation and tests in one go. This resulted in packages like zope.component, where the documentation on PyPI has slowly been transformed into half sentences separated by 5-10 lines of code testing an obscure feature that the half sentences do not properly explain.
     In Plone, this form of testing is not very common.
     We would like to transform our documentation to be testable with doctests.
 
