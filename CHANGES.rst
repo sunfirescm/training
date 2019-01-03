@@ -6,6 +6,8 @@ This changelog is only very rough. For the full changelog please refer to https:
 1.2.5 (unreleased)
 ------------------
 
+- tweaks to Mastering Plone testing page [tkimnguyen]
+
 - Explanation about less variables and development/production mode in the theming training first chapter. [fredvd]
 
 - Fixes to Advanced Python Training [oz123]
